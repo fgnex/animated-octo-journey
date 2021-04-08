@@ -4,4 +4,4 @@
 - Node
 - MariaDB
 
-Projeto de Docker
+Twitter: @fgnex
