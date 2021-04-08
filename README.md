@@ -1,2 +1,7 @@
-# alura-docker
-Projeto do curso de Docker
+# Dockerizando uma aplicação simples utilizando:
+- Docker
+- Nginx
+- Node
+- MariaDB
+
+Projeto de Docker
